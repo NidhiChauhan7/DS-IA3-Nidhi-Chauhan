@@ -12,6 +12,8 @@ Searching Test:
 Key: 42
 Expected result: Element found.
 Index in sorted array: 4.
+if Key: 22
+Then Expected result: Element not found
 
 Hashing:
 Hash table size: 29
