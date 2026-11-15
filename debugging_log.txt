@@ -1,0 +1,16 @@
+DEBUGGING LOG
+Student: Nidhi Suresh Chauhan
+PRN: 202501100108
+Program: Data Structures IA3
+
+1. Compiled using: g++ hash_table.cpp -o hash_table
+2. Compilation completed without errors.
+3. Executed the menu-driven program.
+4. Tested sorting algorithms: Bubble, Insertion, Quick and Radix.
+5. Tested searching algorithms: Linear, Binary and Fibonacci.
+6. Tested hashing methods: Linear Probing and Separate Chaining.
+7. Search test key: 42.
+8. Program termination tested using option 0.
+
+Conclusion:
+The program compiled and executed successfully. No compilation errors were reported.

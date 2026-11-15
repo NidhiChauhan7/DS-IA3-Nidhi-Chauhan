@@ -1,0 +1,26 @@
+TRACE MATCH REPORT
+Student: Nidhi Suresh Chauhan
+PRN: 202501100108
+
+Input Dataset:
+40, 51, 62, 73, 84, 95, 9, 20, 31, 42, 53, 64
+
+Sorting Expected Result:
+9, 20, 31, 40, 42, 51, 53, 62, 64, 73, 84, 95
+
+Searching Test:
+Key: 42
+Expected result: Element found.
+Index in sorted array: 4.
+
+Hashing:
+Hash table size: 29
+Hash function: key % 29
+Collision handling:
+1. Linear Probing
+2. Separate Chaining
+
+Conclusion:
+The sorting algorithms should produce the same ascending order.
+The searching algorithms should locate key 42 at index 4.
+Both hashing methods should store all 12 input values.
